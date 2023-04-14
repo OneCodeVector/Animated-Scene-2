@@ -95,7 +95,6 @@ declare module '*.sss' {
 }
 
 // Built-in asset types
-// see `src/node/constants.ts`
 
 // images
 declare module '*.png' {
